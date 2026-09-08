@@ -13,7 +13,7 @@ and learning by experimenting with different technologies.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,nodejs,linux,windows,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,windows,vs&theme=dark" />
 
 <br><br>
 
@@ -26,9 +26,9 @@ and learning by experimenting with different technologies.
 │                                          │
 │  > Name       : Sleazy                   │
 │  > Alias      : SleazyDecode             │
-│  > Focus      : Development / RE         │
-│  > OS         : Windows + Linux          │
-│  > Editor     : VS Code                  │
+│  > Focus      : Development              │
+│  > OS         : Windows                  │
+│  > Editor     : VS / Code                │
 │                                          │
 └──────────────────────────────────────────┘
 ```
