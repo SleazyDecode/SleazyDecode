@@ -13,7 +13,7 @@ and learning by experimenting with different technologies.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,windows,vs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,windows,visualstudio&theme=dark" />
 
 <br><br>
 
