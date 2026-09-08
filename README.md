@@ -1,33 +1,95 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=BB6BD9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+metix;Building+app+in+c%2B%2B%2C+js.;Starting+in+reverse+engineering;love+cats+%5E%5E" alt="Creds to manishbhaiii" />
-<br/>
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/05/nezuko-gif-10.gif" width="350" style="border-radius: 10px;" />
-  <br/>
-<br/>
-  <h3>Developer  •  Anime  •  15yo  •  Music  •  Windows</h3>
-  <br/>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,cpp,php,vscode,windows&theme=dark" />
-  </a>
-  <br/><br/>
-<a href="https://discord.com/users/1543296284012585002" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1543296284012585002?bg=0d1117&borderRadius=10px&idleMessage=idkbro&theme=dark&showDisplayName=true" />
-  </a>
-<br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BB6BD9&text=Profile%20Views&height=30&fontSize=20" alt="Label" />
-  <br/>
-  <img src="https://count.getloli.com/@metix?name=metix&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="View Counter" />
-<br/><br/>
-<br/>
-</div>
 
-<div align="center">
-  <br/><br/>
-  <a href="https://github.com/metix">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishbhaiii/manishbhaiii/refs/heads/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishbhaiii/manishbhaiii/refs/heads/output/github-contribution-grid-snake.svg">
-      <img alt="snake animation" src="https://raw.githubusercontent.com/manishbhaiii/manishbhaiii/refs/heads/output/github-contribution-grid-snake.svg">
-    </picture>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sleazy+%F0%9F%91%8B;I+break+things+to+understand+them.;Code+%7C+Reverse+Engineering+%7C+Security;Curiosity+drives+everything." alt="Typing SVG" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=SLEAZY%20%2F%2F%20DECODE&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<br>
+
+### `> whoami`
+
+**Developer • Reverse Engineering • Cybersecurity • Low-Level**
+
+I like understanding **how things work under the hood** —
+from software and binaries to systems and protocols.
+
+Currently learning, experimenting, breaking stuff and building it back better.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,nodejs,linux,windows,git,vscode&theme=dark" />
+
+<br><br>
+
+---
+
+### `// About me`
+
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│  > Name       : Sleazy                   │
+│  > Alias      : SleazyDecode             │
+│  > Focus      : Low-level / RE / Dev     │
+│  > OS         : Windows + Linux          │
+│  > Editor     : VS Code                  │
+│  > Status     : Learning & building      │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+<br>
+
+### `// Current interests`
+
+🔹 Reverse Engineering
+🔹 C / C++ & low-level programming
+🔹 Cybersecurity
+🔹 Windows internals
+🔹 Networking & protocols
+🔹 Automation & tooling
+🔹 Open-source projects
+
+<br>
+
+---
+
+### `// GitHub stats`
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SleazyDecode&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleazyDecode&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&langs_count=8" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SleazyDecode&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=777777&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br>
+
+---
+
+### `// Contribution graph`
+
+<img src="https://raw.githubusercontent.com/SleazyDecode/SleazyDecode/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<br>
+
+---
+
+### `// Connect`
+
+<a href="https://github.com/SleazyDecode">
+  <img src="https://img.shields.io/badge/GitHub-SleazyDecode-ffffff?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SleazyDecode&style=for-the-badge&color=grey&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<sub>「 Curiosity is the best debugger. 」</sub>
+
 </div>
