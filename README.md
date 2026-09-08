@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sleazy+%F0%9F%91%8B;Code+%7C+Reverse+Engineering+%7C+Security;Curiosity+drives+everything." alt="Typing SVG" />
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=SLEAZY&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <br>
