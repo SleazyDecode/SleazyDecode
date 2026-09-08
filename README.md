@@ -17,35 +17,6 @@ and learning by experimenting with different technologies.
 
 <br><br>
 
----
-
-### `// About me`
-
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│  > Name       : Sleazy                   │
-│  > Alias      : SleazyDecode             │
-│  > Focus      : Development              │
-│  > OS         : Windows                  │
-│  > Editor     : VS / Code                │
-│                                          │
-└──────────────────────────────────────────┘
-```
-
-<br>
-
-### `// Interests`
-
-🔹 Reverse Engineering
-🔹 C++
-🔹 Cybersecurity
-🔹 Low-level programming
-🔹 Automation & tooling
-
-<br>
-
----
 
 ### `// Projects`
 
