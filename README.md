@@ -6,12 +6,10 @@
 
 ### `> whoami`
 
-**Developer • Reverse Engineering • Cybersecurity • Low-Level**
+**Developer • Reverse Engineering • Cybersecurity**
 
-I like understanding **how things work under the hood** —
-from software and binaries to systems and protocols.
-
-Currently learning, experimenting, breaking stuff and building it back better.
+I enjoy building things, exploring how software works,
+and learning by experimenting with different technologies.
 
 <br>
 
@@ -28,61 +26,43 @@ Currently learning, experimenting, breaking stuff and building it back better.
 │                                          │
 │  > Name       : Sleazy                   │
 │  > Alias      : SleazyDecode             │
-│  > Focus      : Low-level / RE / Dev     │
+│  > Focus      : Development / RE         │
 │  > OS         : Windows + Linux          │
 │  > Editor     : VS Code                  │
-│  > Status     : Learning & building      │
 │                                          │
 └──────────────────────────────────────────┘
 ```
 
 <br>
 
-### `// Current interests`
+### `// Interests`
 
 🔹 Reverse Engineering
-🔹 C / C++ & low-level programming
+🔹 C / C++
 🔹 Cybersecurity
+🔹 Low-level programming
 🔹 Windows internals
-🔹 Networking & protocols
+🔹 Networking
 🔹 Automation & tooling
-🔹 Open-source projects
 
 <br>
 
 ---
 
-### `// GitHub stats`
+### `// Projects`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SleazyDecode&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleazyDecode&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&langs_count=8" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SleazyDecode&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=777777&currStreakNum=ffffff&sideNums=ffffff" />
+Most of my projects are experiments, tools and things I build
+while learning and exploring new ideas.
 
 <br>
 
 ---
 
-### `// Contribution graph`
-
-<img src="https://raw.githubusercontent.com/SleazyDecode/SleazyDecode/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<br>
-
----
-
-### `// Connect`
+### `// Contact`
 
 <a href="https://github.com/SleazyDecode">
   <img src="https://img.shields.io/badge/GitHub-SleazyDecode-ffffff?style=for-the-badge&logo=github&logoColor=black" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=SleazyDecode&style=for-the-badge&color=grey&label=PROFILE+VIEWS" />
 
 <br><br>
 
