@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=SLEAZY%20%2F%2F%20DECODE&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=SLEAZY&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <br>
 
