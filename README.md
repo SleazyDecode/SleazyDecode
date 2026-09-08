@@ -38,11 +38,9 @@ and learning by experimenting with different technologies.
 ### `// Interests`
 
 🔹 Reverse Engineering
-🔹 C / C++
+🔹 C++
 🔹 Cybersecurity
 🔹 Low-level programming
-🔹 Windows internals
-🔹 Networking
 🔹 Automation & tooling
 
 <br>
